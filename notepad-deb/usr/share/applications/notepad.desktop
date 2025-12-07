@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Notepad
+Comment=Simple notepad application
+Exec=notepad
+Icon=notepad
+Terminal=false
+Type=Application
+Categories=Utility;TextEditor;
+StartupNotify=true

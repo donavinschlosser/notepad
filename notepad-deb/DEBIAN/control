@@ -1,0 +1,9 @@
+Package: notepad
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: libc6, libgtkmm-3.0-1v5 (>= 3.22)
+Maintainer: Donavin Schlosser
+Description: Simple notepad application
+ A lightweight and clean text editor inspired by the classic Windows Notepad.
